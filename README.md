@@ -16,3 +16,7 @@ Input log text file containing following elements:
 ###Running the program
 
 python log_parser.py -i input.txt -o output.json
+
+###Flask api for the above: parser_app.py
+
+Run the api using the command python parser_app.py
